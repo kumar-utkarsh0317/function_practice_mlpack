@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cereal>
+	<trained_model>
+		<cereal_class_version>0</cereal_class_version>
+		<parameters>
+			<n_rows>15</n_rows>
+			<n_cols>1</n_cols>
+			<vec_state>1</vec_state>
+			<elem>487.57746429047745</elem>
+			<elem>-435.13941021428042</elem>
+			<elem>-0.0039534879997329391</elem>
+			<elem>0.021635169482940232</elem>
+			<elem>-0.030957612786152802</elem>
+			<elem>0.0079167926421391324</elem>
+			<elem>-0.042600036536541548</elem>
+			<elem>0.018796184276701246</elem>
+			<elem>-0.051098015689579605</elem>
+			<elem>-0.051103974111086609</elem>
+			<elem>0.037310993227588775</elem>
+			<elem>-0.021575462439984584</elem>
+			<elem>0.021735421587836843</elem>
+			<elem>-0.015286810952289282</elem>
+			<elem>-0.081915493624940244</elem>
+		</parameters>
+		<lambda>0</lambda>
+		<intercept>true</intercept>
+	</trained_model>
+</cereal>
+
